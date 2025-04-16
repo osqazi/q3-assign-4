@@ -1,0 +1,11 @@
+# Python Website Build using Streamlit
+
+**GIT LINK:**
+
+https://github.com/osqazi/growth_mindset_assign1.git
+
+
+**APP WEB LINK:**
+
+https://thedatacleaner.streamlit.app/
+

@@ -1,0 +1,11 @@
+# BMI Calculator Web App Build using Streamlit
+
+**GIT LINK:**
+
+https://github.com/osqazi/bmicalculator.git
+
+
+**APP WEB LINK:**
+
+https://thebmicalculator.streamlit.app/
+
